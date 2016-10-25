@@ -24,7 +24,7 @@
 						</ol>
 					</div>
 					<img class="pull-left" src="img/star-trek-cat.jpg" alt="star trek cat" />
-					<h2>These are the voyages of the Starship Enterprise! test</h2>
+					<h2>These are the voyages of the Starship Enterprise!</h2>
 					<p>Its continuing mission, to explore strange new worlds, to seek out new life and new civilizations, to boldly go where no one has gone before. We need to neutralize the homing signal. Each unit has total environmental control, gravity, temperature, atmosphere, light, in a protective field. Sensors show energy readings in your area. We had a forced chamber explosion in the resonator coil. Field strength has increased by 3,000 percent.</p>
 					<h3>Cmdr Riker's nervous system has been invaded by an unknown microorganism.</h3>
 					<p>Now what are the possibilities of warp drive? The organisms fuse to the nerve, intertwining at the molecular level. That's why the transporter's biofilters couldn't extract it. The vertex waves show a K-complex corresponding to an REM state. The engineering section's critical. Destruction is imminent. Their robes contain ultritium, highly explosive, virtually undetectable by your transporter.</p>
